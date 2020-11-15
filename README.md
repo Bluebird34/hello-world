@@ -1,2 +1,3 @@
 # hello-world
 This is a project about how to use Github
+I am so interested in learning coding, although I am a bit falling behind for this semester, I will catch up with later on.....
